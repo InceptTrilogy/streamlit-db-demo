@@ -8,7 +8,8 @@ setup(
     install_requires=[
         "streamlit>=1.30.0",
         "pytest>=7.4.0",
-        "pyright>=1.1.0"
+        "pyright>=1.1.0",
+        "setuptools>=65.0.0",
     ],
     python_requires=">=3.8",
 )
